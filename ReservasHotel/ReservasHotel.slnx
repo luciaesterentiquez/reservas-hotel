@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="ReservasHotel.Api/ReservasHotel.Api.csproj" />
+</Solution>
